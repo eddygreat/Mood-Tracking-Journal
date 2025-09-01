@@ -1,0 +1,35 @@
+body {
+  font-family: sans-serif;
+  padding: 2rem;
+  background: #f0f4f8;
+}
+textarea {
+  width: 100%;
+  height: 100px;
+  margin-bottom: 1rem;
+  border-radius: 15px;
+  padding: 10px;
+}
+button {
+  padding: 0.5rem 1rem;
+  border-radius: 8px;
+}
+
+#btn {
+  background-color: #d744ab;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+#btn:hover {
+  background-color: #4d08a7;
+}
+
+#result {
+  margin-top: 1rem;
+  font-weight: bold;
+}
+canvas {
+  margin-top: 2rem;
+  max-width: 100%;
+}
