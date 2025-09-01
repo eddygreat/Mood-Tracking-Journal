@@ -30,6 +30,8 @@ A web-based mood tracking application that allows users to log their emotional s
 
 ### 1. Clone the Repository
 
+### code developed by edward Manasseh, email: edwardmanasseh@gmail.com
+
 ```bash
 git clone https://github.com/eddygreat/Mood-Tracking-Journal.git
 cd to hackathon 3.0
